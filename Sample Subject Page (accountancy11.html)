@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class 11 Accountancy - Raistar Academy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Class 11 - Accountancy</h1>
+    </header>
+    <main>
+        <h2>Study Materials</h2>
+        <ul>
+            <li><a href="notes/accountancy11_lesson1.pdf">Lesson 1</a></li>
+            <li><a href="notes/accountancy11_lesson2.pdf">Lesson 2</a></li>
+            <li><a href="notes/accountancy11_lesson3.pdf">Lesson 3</a></li>
+        </ul>
+
+        <h2>Previous Year Questions</h2>
+        <ul>
+            <li><a href="pyq/accountancy_2014.pdf">2014</a></li>
+            <li><a href="pyq/accountancy_2015.pdf">2015</a></li>
+            <li><a href="pyq/accountancy_2025.pdf">2025</a></li>
+        </ul>
+    </main>
+</body>
+</html>
