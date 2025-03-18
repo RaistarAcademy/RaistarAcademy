@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raistar Academy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Raistar Academy</h1>
+        <nav>
+            <ul>
+                <li><a href="class11.html">Class 11</a></li>
+                <li><a href="class12.html">Class 12</a></li>
+                <li><a href="semester1.html">1st Semester</a></li>
+                <li><a href="semester2.html">2nd Semester</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Welcome to Raistar Academy</h2>
+        <p>Get free educational resources for Classes 11 & 12 and B.Com Semesters.</p>
+    </main>
+</body>
+</html>
